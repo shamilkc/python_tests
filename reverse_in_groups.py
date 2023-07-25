@@ -10,3 +10,4 @@ while i < len(a):
     print(a[i:i + s][::-1])
 
     i += s
+print(a[::-1])
